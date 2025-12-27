@@ -1,5 +1,5 @@
 
-# Project 01 – AI Workflow Optimization
+# Project 03 – AI Workflow Optimization
 
 ## Overview
 This project focuses on improving operational workflows using AI support.
